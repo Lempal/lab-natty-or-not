@@ -1,4 +1,5 @@
-# Descrição
+# Título do Projeto Extremamente Aesthetic ;)
+## Descrição
 Este projeto explora o potencial das IAs Generativas criando conteúdo visual e textual altamente realista. O objetivo foi testar até que ponto a IA consegue produzir resultados que parecem feitos por humanos, desde imagens ultra-realistas até pequenas histórias narradas.
 
 ## O desafio principal: criar algo que seja tão convincente que seja difícil dizer se é “natural” ou gerado por IA — o famoso “Natty or Not”! 😎
