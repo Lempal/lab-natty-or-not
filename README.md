@@ -1,51 +1,51 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Descrição
+Este projeto explora o potencial das IAs Generativas criando conteúdo visual e textual altamente realista. O objetivo foi testar até que ponto a IA consegue produzir resultados que parecem feitos por humanos, desde imagens ultra-realistas até pequenas histórias narradas.
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+## O desafio principal: criar algo que seja tão convincente que seja difícil dizer se é “natural” ou gerado por IA — o famoso “Natty or Not”! 😎
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- DALL·E 3 🖼️ — geração de imagens realistas a partir de prompts criativos
+
+- ChatGPT 5 💬 — criação de roteiros, histórias e textos envolventes
+
+- Runway 🎬 — ajustes de vídeos e composição de imagens com movimento
+
+- Synthesia 🎤 — criação de narrativas em vídeo com avatares e voz sintetizada
+
+- Figma 🎨 — organização de layouts e apresentação visual dos resultados
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+💡 Ideia inicial: decidi criar uma série de personagens fictícios com aparência realista e pequenas histórias de fundo.
+
+✏️ Prompt Engineering: refinei os prompts no DALL·E para gerar expressões faciais naturais, iluminação realista e cenários coerentes.
+
+🎨 Ajustes e combinações: combinei imagens e animações no Runway, ajustando cores e movimentos para maior realismo.
+
+🎤 Narrativa: utilizei ChatGPT para criar diálogos curtos e Synthesia para narrar em vídeo.
+
+🔥 Toque final: organizei tudo no Figma, criando um portfólio visualmente atraente e fácil de navegar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado final é uma coleção de imagens e vídeos realistas com narrativa curta, apresentando personagens que parecem “natty”, mas são totalmente gerados por IA.
 
-### Exemplos e Insigths
+- 🖼️ Imagens realistas: cada personagem tem expressões naturais e cenário coerente
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- 🎬 Vídeos curtos: avatares narram pequenas histórias usando voz sintética
 
-## Links Interessantes
+- 💻 Portfólio interativo: todos os conteúdos organizados visualmente para fácil apresentação
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+
+- Criar conteúdo convincente com IA é fascinante, mas desafiador! Alguns insights:
+
+- Ajustar prompts é fundamental para obter resultados realistas
+
+- Combinar diferentes IAs gera resultados muito mais ricos do que usar apenas uma
+
+- O mais divertido foi ver como pequenas mudanças nos prompts transformam completamente o resultado final
+
+- O desafio “Natty or Not” mostra que a criatividade humana ainda é essencial para orientar a IA — somos nós que damos o toque final! ✨
